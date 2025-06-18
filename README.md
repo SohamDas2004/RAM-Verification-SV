@@ -1,4 +1,4 @@
-# 🧠 RAM Verification using SystemVerilog Testbench
+# 🧠 RAM Verification using SV Testbench (<b>in progress</b>)
 
 This repository contains a verification environment for a custom RAM design using **SystemVerilog**. The goal of this project was to validate the functionality of a synchronous RAM using a modular and reusable testbench architecture.
 
