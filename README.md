@@ -15,6 +15,9 @@ This repository contains a verification environment for a custom RAM design usin
 
 <br>
 
+
+![image](https://github.com/user-attachments/assets/92a8f27f-1fcc-4549-a562-8f46303ee749)
+
 <img src="https://github.com/user-attachments/assets/676d4845-c185-4ac8-8401-a6ad05599148" width="500" height="800">
 
 <br>
