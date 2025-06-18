@@ -15,6 +15,13 @@ This repository contains a verification environment for a custom RAM design usin
 
 <br>
 
+## 📌 RAM Architecture 
+<br>
+
+<img src="https://github.com/user-attachments/assets/1e65a865-a533-4c28-900f-ba894d421670" width="400" height="600">
+
+<br>
+
 ## 📌 Basic Architecture 
 <img src="https://github.com/user-attachments/assets/67b858d4-1093-4386-b6a3-68b5778c9443" width="500" height="800">
 
