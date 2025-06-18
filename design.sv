@@ -1,3 +1,4 @@
+//This is the RTL file where the RAM design is made
 module ram_rtl(input clk,rst,rd_enb,wr_enb,
  
  				input [3:0] wr_addr,rd_addr,
