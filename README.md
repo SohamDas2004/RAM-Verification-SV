@@ -12,15 +12,4 @@ This repository contains a verification environment for a custom RAM design usin
   - Write enable glitches
   - Out-of-bound addresses
   - Reset behavior
-
-## 📂 Repository Structure
-
-```bash
-ram-verification-sv/
-├── docs/           # Documentation and diagrams
-├── sim/            # Simulation scripts or Do files
-├── src/            # RAM RTL design files
-├── tb/             # SystemVerilog testbench files
-├── results/        # Waveforms and reports
-├── .gitignore
-└── README.md
+  - 
