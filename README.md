@@ -23,7 +23,7 @@ This repository contains a verification environment for a custom RAM design usin
 <br>
 
 ## 📌 SV Architecture 
-<img src="https://github.com/user-attachments/assets/67b858d4-1093-4386-b6a3-68b5778c9443" width="500" height="800">
+<img src="https://github.com/user-attachments/assets/67b858d4-1093-4386-b6a3-68b5778c9443" width="300" height="500">
 
 <br>
 
