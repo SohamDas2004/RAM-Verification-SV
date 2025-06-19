@@ -24,7 +24,7 @@ This repo contains a verification environment for a custom 32RAM design using **
 
 ## 📌 SV Architecture 
 
-<img src="https://github.com/user-attachments/assets/0517f218-3bdf-4bf1-92ab-4f8feccb98b2" width="300" height="450">
+<img src="https://github.com/user-attachments/assets/0517f218-3bdf-4bf1-92ab-4f8feccb98b2" width="500" height="700">
 
 <br>
 
