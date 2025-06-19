@@ -1,4 +1,4 @@
-# 🧠 32 bit RAM Verification using SV Testbench (in progress)
+# 🧠 32-RAM Verification using SV Testbench
 
 This repo contains a verification environment for a custom 32RAM design using **SystemVerilog**. The goal of this project was to validate the functionality of a synchronous RAM using a modular and reusable testbench architecture.
 
