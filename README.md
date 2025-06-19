@@ -2,7 +2,7 @@
 
 This repo contains a verification environment for a custom 32RAM design using **SystemVerilog**. The goal of this project was to validate the functionality of a synchronous RAM using a modular and reusable testbench architecture.
 
-## 📌 Project Highlights
+## 📌 Highlights
 
 - 🛠 **Design**: A parameterized RAM module with read/write enable, address decoding, and synchronous reset.
 - ✅ **Verification**: Testbench developed in SystemVerilog with constrained-random stimulus and functional coverage.
