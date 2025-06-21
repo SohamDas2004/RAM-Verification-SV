@@ -12,10 +12,8 @@ This repo contains a verification environment for a custom 32RAM design using **
   - Write enable glitches
   - Out-of-bound addresses
   - Reset behavior
-<br>
 
 ## 📌 RAM Architecture 
-<br>
 
 <img src="https://github.com/user-attachments/assets/1e65a865-a533-4c28-900f-ba894d421670" width="400" height="300">
 
